@@ -11,9 +11,9 @@ I am ***@Diana Youjay***, a Data Analyst and user Friendly.
 - 🔭 I'm a techie.
 - 🌱 I’m currently learning Excel, Tableau, SQL
 - 👯 I would love to work with others data project.
-- 🤔 I would be fascinated to dive other field involing big data.
-- 💬 Ask me about the benefit of this course in three months time.
+- 🤔 I'm  fascinated to dive into other field involing big data.
+- 💬 Ask me about the benefit of this course in the next three months.
 - 📫 How to reach me: [Here](https://www.linkedin.com/feed/)
 - 😄 Pronouns: She
 - ⚡ Fun fact: Nature is my friend 
---> I no glee.  
+-->   
